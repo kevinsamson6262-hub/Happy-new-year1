@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Happy-new-year/static/css/main.7be02aac.css",
+    "main.js": "/Happy-new-year/static/js/main.ce53b41e.js",
+    "index.html": "/Happy-new-year/index.html",
+    "main.7be02aac.css.map": "/Happy-new-year/static/css/main.7be02aac.css.map",
+    "main.ce53b41e.js.map": "/Happy-new-year/static/js/main.ce53b41e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7be02aac.css",
+    "static/js/main.ce53b41e.js"
+  ]
+}
